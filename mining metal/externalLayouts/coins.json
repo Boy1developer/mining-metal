@@ -1,0 +1,51 @@
+{
+  "associatedLayout": "frist cave",
+  "name": "coins",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "ui",
+      "name": "iron_ore",
+      "persistentUuid": "0438bd42-5f4c-45c7-8d14-e5bdf95e7d8b",
+      "width": 0,
+      "x": 1152,
+      "y": 79,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "ui",
+      "name": "iron_text",
+      "persistentUuid": "f83e5538-ad7b-4b93-9a3b-807dff80990d",
+      "width": 0,
+      "x": 1102,
+      "y": 115,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.4633111824513976,
+    "windowMask": false
+  }
+}
